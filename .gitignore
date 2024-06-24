@@ -1,0 +1,4 @@
+.env
+nfcorpus
+embeddings.pkl
+venv
